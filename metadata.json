@@ -1,0 +1,6 @@
+{
+  "name": "OpsGuard AI",
+  "description": "Autonomous incident response and intelligent infrastructure operations platform with live telemetry, real-time root cause diagnosis, automated runbooks, and Gemini AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
